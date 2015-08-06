@@ -20,13 +20,13 @@ module.exports = function (grunt) {
 
         shell: {
             dist: {
-                command: 'gitbook build . ./dist'
+                command: 'gitbook build . ./_book'
             },
         },
 
         'gh-pages': {
           options: {
-            base: 'dist'
+            base: '_book'
           },
           src: ['**']
         }
