@@ -1,0 +1,10 @@
+# Mac OSX meta files
+.DS_Store
+
+# nodejs app dependencies
+node_modules
+
+# gitbook temporary files
+_book
+
+.grunt
