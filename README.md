@@ -16,5 +16,5 @@
 - 安装全局grunt-cli，执行`npm install -g grunt-cli`
 - 安装全局gitbook，执行`npm install -g gitbook-cli`
 - 发布，执行`grunt`
-- 打开自己项目的pages网址查看，http://*you_github_username*.github.io/learning
+- 打开自己项目的pages网址查看，http://ynu.github.io/internet_plus_documentations
 
